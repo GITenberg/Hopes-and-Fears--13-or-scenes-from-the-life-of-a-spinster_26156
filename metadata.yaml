@@ -1,0 +1,31 @@
+_repo: Hopes-and-Fears--13-or-scenes-from-the-life-of-a-spinster_26156
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26156-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2008-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'England -- Social conditions -- 19th century -- Fiction'
+title: "Hopes and Fears\r\nor, scenes from the life of a spinster"
+url: http://www.gutenberg.org/ebooks/26156
